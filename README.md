@@ -78,6 +78,7 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
+- I would like to give Credit to [Cindy Shin](https://www.behance.net/adagio07) the [author of the original design](https://www.behance.net/gallery/29845175/CC-Global-Summit-2015), as required by the [Creative Commons License](https://creativecommons.org/licenses/).
 - This project is part of Capstone week of module 1 in the Microverse study program.
 - Thanks to the Microverse team for the great curriculum.
 - Thanks to Code Reviewers for the insightful feedback.
