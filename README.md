@@ -19,7 +19,7 @@ This project is a part of my Microverse curriculum. This is made as Final Projec
 
 ## Live
 
-[Live Link](https://sja-thedude.github.io/Capstone-Project-Module1/)
+[Live Link](https://sja-thedude.github.io/Microverse/)
 
 ## Built With
 
